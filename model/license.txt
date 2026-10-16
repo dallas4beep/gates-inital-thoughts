@@ -1,0 +1,8 @@
+Model Information:
+* title:	T_shirt
+* source:	https://sketchfab.com/3d-models/t-shirt-43ec37f6a0ee44ea940714f0a72444f8
+* author:	sju8080 (https://sketchfab.com/sju8080)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
